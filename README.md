@@ -20,7 +20,7 @@
 
 ## Technologies Used
 - HTML
-- - CSS
+- CSS
 
 
 
